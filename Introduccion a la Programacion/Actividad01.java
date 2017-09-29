@@ -3,8 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cursoprogramacion;
-
 //importando lobreria para ingreso de datos por teclado
 import java.util.Scanner;
 
@@ -12,7 +10,7 @@ import java.util.Scanner;
  *
  * @author HugoLuna
  */
-public class CursoProgramacion {
+public class Actividad01 {
 
     /**
      * @param args the command line arguments
