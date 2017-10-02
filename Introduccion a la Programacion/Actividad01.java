@@ -14,7 +14,7 @@ public class Actividad01 {
     
     public static void main(String[] args) {
         
-        
+        /*Usar double para obtener un mejor resultado en la division*/
         //declarando variables
         int a= 10,b= 20, res;
         
