@@ -26,7 +26,7 @@ public class Actividad01 {
         // TODO code application logic here
         //inicializando teclado
         Scanner Teclado = new Scanner(System.in);
-        
+        /*Usar double para obtener un mejor resultado en la division*/
         //declarando variables
         int a,b, c;
         
