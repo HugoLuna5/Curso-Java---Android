@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//importando lobreria para ingreso de datos por teclado
+//importando libreria para ingreso de datos por teclado
 import java.util.Scanner;
 
 /**
